@@ -1,0 +1,33 @@
+
+body {
+    text-align: center;  
+    
+}
+div{
+    min-width: 20%;
+    max-width: 100%;
+    margin: 100px auto;
+}
+button{
+  width: 80px;
+    height: 32px;
+    border-radius: 50px;
+    border: none;
+    font-weight: 600;
+}
+.main-container{
+  width: 370px;
+    height: 200px;
+    border: 5px solid linear-gradient(to right, red, purple);
+    color: #fff;
+    background: linear-gradient(to right, red, purple);
+    border-radius: 5px;
+    padding: 12px;
+}
+#timer{
+  font-size: 40px;
+    letter-spacing: 16.2px;
+}
+#heading{
+  color: #010441;
+}
